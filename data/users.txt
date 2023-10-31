@@ -1,0 +1,7 @@
+user, abc@mail.com, pass123, Firstname, Lastname, 26
+admin, admin@admin.com, 1234, Admin, admin, 27 
+user, farhan@mail.com, 1234, Farhan, Sadaf, 25
+user, alex@mail.com, alex1234, Alex, Something, 28
+user, hrefbody@gmail.com, 343434, Href, body, 34
+admin, something@admin.com, 4567, Something, Admin, 50
+user, ii@gmail.com, 123, jj, ii, 22
